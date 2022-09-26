@@ -1,0 +1,15 @@
+{
+  "name": "origin-c-syntax",
+  "theme": "syntax",
+  "version": "0.0.1",
+  "description": "Origin C syntax theme",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/khwanmindedge/origin-c-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
